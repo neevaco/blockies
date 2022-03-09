@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexvandesande/blockies.git"
+    "url": "git+https://github.com/neevaco/blockies.git"
   },
   "author": "Erin Dachtler, Alex Van de Sande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexvandesande/blockies/issues"
+    "url": "https://github.com/neevaco/blockies/issues"
   },
-  "homepage": "https://github.com/alexvandesande/blockies#readme"
+  "homepage": "https://github.com/neevaco/blockies#readme"
 }
